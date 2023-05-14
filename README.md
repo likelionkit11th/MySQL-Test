@@ -18,9 +18,7 @@
 
 - 인텔리제이 열어주기
 <br>
-![image](https://github.com/likelionkit11th/MySQL-Test/assets/86856676/f4b83d63-1769-4c37-b79e-903d25889fc5)
-
-
+![image](https://github.com/likelionkit11th/MySQL-Test/assets/86856676/2bead86e-de0b-4ace-99cb-9cc99de9aaf1)
 - yml파일 수정
 - spring.datasource.url에 localhost:3306/ 뒤에는 생성한 데이터베이스 이름 기입
 - spring.datasource.username에는 데이터베이스에서 만든 username기입. root로 해도 상관없음
