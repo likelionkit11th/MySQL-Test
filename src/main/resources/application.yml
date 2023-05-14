@@ -1,0 +1,16 @@
+#asadf
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mutsa?serverTimezone=Asia/Seoul&useUnicode=true&characterEncoding=utf8
+    username: user
+    password: user1234
+
+  jpa:
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        # show_sql: true
+        format_sql: true
